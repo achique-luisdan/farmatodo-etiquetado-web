@@ -50,7 +50,8 @@ Interceptor de Peticiones HTTP
 - Respetar el Tipado Estricto de TypeScript
 
 ## Reseñas
-
+<section align="center">
+<div aling="center">
 <a href="https://www.linkedin.com/in/jhon-pereira-91750137"><b>Jhon C. Pereira C.</b></a>
 
 ![Foto de Jhon](./jhon.png)
@@ -58,5 +59,6 @@ Interceptor de Peticiones HTTP
 <b>Especialista de Proyectos TI</b>
 
 <b>Farmatodo</b>
-
+</div>
+</section>	
 El proyecto de Migración de la aplicación de Etiquetado: Kendo UI a Angular Material UI, Luis aporto todo su dominio para migrar los elementos propios de Kendo UI a angular Material UI, asi como agregar interceptores centralizado para el manejo de errores y mensaje de exito de la capa de API servicios rest, asi como ajustar a las mejores practicas en el uso de Typescript. Recomiendo a Luis en desarrollo de front end con Angular 11.
