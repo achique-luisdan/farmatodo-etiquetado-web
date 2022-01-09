@@ -48,3 +48,11 @@ Interceptor de Peticiones HTTP
 - Mapeo de Models, Requests, Responses
 - Finalizar subscriptores de Observables
 - Respetar el Tipado Estricto de TypeScript
+
+## Reseñas
+
+<b>Jhon C. Pereira C.</b>
+
+<b>Especialista de Proyectos TI en Farmatodo</b>
+
+El proyecto de Migración de la aplicación de Etiquetado: Kendo UI a Angular Material UI, Luis aporto todo su dominio para migrar los elementos propios de Kendo UI a angular Material UI, asi como agregar interceptores centralizado para el manejo de errores y mensaje de exito de la capa de API servicios rest, asi como ajustar a las mejores practicas en el uso de Typescript. Recomiendo a Luis en desarrollo de front end con Angular 11.
