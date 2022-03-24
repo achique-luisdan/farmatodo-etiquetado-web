@@ -49,6 +49,28 @@ Interceptor de Peticiones HTTP
 - Finalizar subscriptores de Observables
 - Respetar el Tipado Estricto de TypeScript
 
+## Herramientas 🛠️
+
+Las herramientas utilizadas en el desarrollo del proyecto fueron:
+
+* [Node JS v14 o superior](https://nodejs.org/es/) - Entorno de Ejecución de Servidor para JavaScript
+
+* [Angular v13](https://angular.io/) - Framework Web Frontend para crear SPA (Single Page Aplication).
+ 
+* [Angular Material v13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
+
+### Equipo ✒️
+
+A continuación se menciona a todos aquellos que participaron en el proyecto:
+
+* **Jhon Pereira** - *Lider Técnico* - [Linkedin: @jhon-pereira-91750137](https://www.linkedin.com/in/jhon-pereira-91750137)
+  
+* **Carlos Rodríguez** - *Consultor Técnico*
+
+* **Ramón González** - *Desarrollador Web*
+
+* **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan))
+
 ## Reseñas (Reviews)
 <section align="center">
 <div aling="center">
