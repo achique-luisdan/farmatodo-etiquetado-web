@@ -49,7 +49,7 @@ Interceptor de Peticiones HTTP
 - Finalizar subscriptores de Observables
 - Respetar el Tipado Estricto de TypeScript
 
-## Herramientas 🛠️
+## Herramientas (Tools) 🛠️
 
 Las herramientas utilizadas en el desarrollo del proyecto fueron:
 
@@ -59,7 +59,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
  
 * [Angular Material v13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
-### Equipo ✒️
+### Equipo (Team) ✒️
 
 A continuación se menciona a todos aquellos que participaron en el proyecto:
 
