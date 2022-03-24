@@ -4,13 +4,13 @@ Migración Frontend de Farmatodo Etiquetado Web de Kendo UI a Angular Material v
 
 ![Inicio de Sesión](./02.png) ![Investigador de Ítems](./01.png) ![Cerrar Sesión](./04.png)
 
-## Descripción (Description)
+## Descripción (Description) 📋
 
 Después de recibir las indicaciones concernientes al proyecto del Aplicativo de Etiquetado Web, y revisando tanto la web como el código fuente del presente proyecto, se listaron una serie de tareas prioritarias y netamente requeridas centradas en la migración de Kendo UI a Angular Material.
 		
 Además, se habían identificado una serie de mejoras sugeridas que podrán ser implementadas posteriormente en otro lapso de tiempo o sprint, en pro de la refactorización del código y revindicar con los estándares que sean venido adoptando en la migración del Portal de Aplicaciones Corporativas (PAC).
 
-## Caracteristicas (Features)
+## Caracteristicas (Features) ❤️
 
 Inicio de Sesión (Login)
 
