@@ -49,7 +49,7 @@ Interceptor de Peticiones HTTP
 - Finalizar subscriptores de Observables
 - Respetar el Tipado Estricto de TypeScript
 
-## Reseñas
+## Reseñas (Reviews)
 <section align="center">
 <div aling="center">
 <a href="https://www.linkedin.com/in/jhon-pereira-91750137"><b>Jhon C. Pereira C.</b></a>
