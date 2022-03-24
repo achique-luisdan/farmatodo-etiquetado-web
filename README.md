@@ -43,8 +43,7 @@ Loader animación de carga HTTP
 ## Refactorización (Refactoring)
 
 Se debe destacar que se realizaron algunas mejoras sugeridas que fueron muy necesarias en el marco de proyecto.
-Interceptor de Peticiones HTTP
-
+- Interceptor de Peticiones HTTP
 - Mapeo de Models, Requests, Responses
 - Finalizar subscriptores de Observables
 - Respetar el Tipado Estricto de TypeScript
